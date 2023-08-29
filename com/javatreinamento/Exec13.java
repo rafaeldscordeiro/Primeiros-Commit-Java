@@ -15,6 +15,8 @@ public class Exec13 {
 		System.out.println("Digite seu sexo :");
 		int sexo = scan.nextInt();
 		
+		int recebidoPorHora;
+		int horasTrabalhadasNoMes;
 		System.out.println("Então vai receber esse mes " + (recebidoPorHora * horasTrabalhadasNoMes));
 		
 	}
